@@ -10,6 +10,7 @@ Packet Tracer (available at: https://www.netacad.com/courses/packet-tracer). The
 topology will illustrate the various network devices, network design, and network
 boundaries, as explained in the Network Essential course, showcasing the path from
 the host to the external network.
+
 2.) Packet Flow Investigation: After establishing the network topology using
 Cisco Packet Tracer and configuring IPv4 addresses on all layer-3 devices, students
 will proceed to collect packets at each device using a packet sniffer. They can choose
@@ -24,10 +25,13 @@ creator application can be used to create this diagram.
 Expected Outcome:
 Upon completion of the packet inspection and header analysis at each node,
 students should be able to demonstrate the following:
+
 1.) A clear understanding of different blocks of network design.
+
 2.) Familiarity with the different OSI model layers and the importance of layering. They
 should also comprehend the relationship between the layers and the metadata
 carried in each layer&#39;s packet header.
+
 3.) A comprehensive understanding of the roles of various devices in a network. They
 should be able to distinguish the role of a router (L3 device) from that of a switch (L2
 device).
